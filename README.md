@@ -1,10 +1,7 @@
 # StepFunctions-AWS-Dio
-
-Esta é uma elaboração detalhada sobre os assuntos abordados nos excertos, focada na definição, funcionalidades, integrações e uso prático do AWS Step Functions, além de mencionar brevemente outros serviços AWS relacionados.
-
 ---
 
-### Resumo Elaborado sobre AWS Step Functions
+### Resumo sobre AWS Step Functions
 
 #### 1. Conceito e Definição do AWS Step Functions
 
